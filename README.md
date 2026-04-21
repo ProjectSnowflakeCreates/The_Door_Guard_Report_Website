@@ -1,8 +1,8 @@
 <h1>Welcome to the Door Guard Report Website.</h1>
 <ul>
-  <li><a herf="#provides">What This Website provides.</a></li>
+  <li><a href="#provides">What This Website provides.</a></li>
   <p>Shows a list of what this website provides for the user.</p>
-  <li><a herf="#report">Report issue.<a></li>
+  <li><a href="#report">Report issue.<a></li>
   <p>Takes you to the section of the website where a report can be made.</p>
 </ul>
 <h2 id="provides">What this website provides.</h2>

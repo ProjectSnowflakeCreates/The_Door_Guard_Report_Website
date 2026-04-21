@@ -2,9 +2,8 @@
 <ul>
   <li><a href="#provides">What This Website provides.</a></li>
   <p>Shows a list of what this website provides for the user.</p>
-  <li><a href="#report">Report issue.<a></li>
+  <li><a href="#report">Report issue.<a>
   <p>Takes you to the section of the website where a report can be made.</p>
-</ul>
 <h2 id="provides">What this website provides.</h2>
 <ul>
   <ol>Provides a place to report app issues.</ol>

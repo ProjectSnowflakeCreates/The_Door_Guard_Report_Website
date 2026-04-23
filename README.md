@@ -12,6 +12,7 @@
 </ul>
 <h2 id="report">Report</h2>
 <h3>suspected issues</h3>
+    <h4>Copy and paste issue into issue section if your facing any of the following suspected issues.</h4>
 <ul>
   <li>Counter dies not increase when door opens or closes.</li>
   <li>Enable/Disable counter doesn't work</li>
@@ -27,5 +28,5 @@
 </ul>
 <h2>What is your username?</h2>
 Username
-<h2>What is you issue?</h2>
+<h2>What is the issue?</h2>
 issue

@@ -10,6 +10,9 @@
   <ol>Allows you to share your problems so they can be fixes.</ol>
   <ol>Allows you to suggest new features to be added to the app for app emprovements.</ol>
 </ul>
+    <h2>Return to door Guard</h2>
+    <h3>Incase of a link misclick/tap this link will take you back to the door guard app/website
+    <h4><a href="https://projectsnowflakecreates.github.io/The_Door_Guard_Report_Website/">Main app/Website</a></h4>
 <h2 id="report">Report</h2>
 <h3>suspected issues</h3>
     <h4>Copy and paste issue into issue section if your facing any of the following suspected issues.</h4>
